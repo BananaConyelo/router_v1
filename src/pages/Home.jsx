@@ -46,7 +46,7 @@ function Home() {
         />
       </div>
       <div className="flex-1 text-gray-900">
-        <h1 className="text-5xl font-extrabold mb-4">Hi, I'm Jessie Mompero</h1>
+        <h1 className="text-5xl font-extrabold mb-4 animate-bounce">Hi, I'm Jessie Mompero</h1>
         <p className="text-lg leading-relaxed mb-6 text-justify" >
         A passionate college student who will be a full-stack developer specializing in building fantastic web applications with modern technologies. I love turning ideas into reality on the web.
         </p>
